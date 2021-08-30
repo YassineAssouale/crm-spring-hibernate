@@ -5,8 +5,6 @@ import java.util.List;
 import crm.hibernate.exception.DaoException;
 import crm.hibernate.model.Customer;
 
-
-
 public interface CustomerRepository {
 	
 	/**
