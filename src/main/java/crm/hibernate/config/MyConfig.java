@@ -14,7 +14,7 @@ import org.springframework.orm.hibernate5.LocalSessionFactoryBean;
 import org.springframework.transaction.PlatformTransactionManager;
 
 @Configuration
-@ComponentScan(basePackages = {"fr.crm.hibernate.repository"})
+@ComponentScan(basePackages = {"crm.hibernate.repository"})
 public class MyConfig {
 
 	@Bean
